@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FunnyOsprey20
+- 👀 I’m interested in front-end dev
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on everything I'm new at this
+- 📫 How to reach me is by email: jack.vaughn17@gmail.com
